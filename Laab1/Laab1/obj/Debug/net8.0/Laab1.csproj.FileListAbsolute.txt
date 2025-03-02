@@ -1,0 +1,15 @@
+C:\Users\06650\source\repos\Laab1\Laab1\bin\Debug\net8.0\Laab1.exe
+C:\Users\06650\source\repos\Laab1\Laab1\bin\Debug\net8.0\Laab1.deps.json
+C:\Users\06650\source\repos\Laab1\Laab1\bin\Debug\net8.0\Laab1.runtimeconfig.json
+C:\Users\06650\source\repos\Laab1\Laab1\bin\Debug\net8.0\Laab1.dll
+C:\Users\06650\source\repos\Laab1\Laab1\bin\Debug\net8.0\Laab1.pdb
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.AssemblyInfoInputs.cache
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.AssemblyInfo.cs
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.csproj.CoreCompileInputs.cache
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.sourcelink.json
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.dll
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\refint\Laab1.dll
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.pdb
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\Laab1.genruntimeconfig.cache
+C:\Users\06650\source\repos\Laab1\Laab1\obj\Debug\net8.0\ref\Laab1.dll

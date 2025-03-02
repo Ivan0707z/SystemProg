@@ -1,0 +1,15 @@
+C:\Users\06650\source\repos\Laab2\Laab2\bin\Debug\net8.0\Laab2.exe
+C:\Users\06650\source\repos\Laab2\Laab2\bin\Debug\net8.0\Laab2.deps.json
+C:\Users\06650\source\repos\Laab2\Laab2\bin\Debug\net8.0\Laab2.runtimeconfig.json
+C:\Users\06650\source\repos\Laab2\Laab2\bin\Debug\net8.0\Laab2.dll
+C:\Users\06650\source\repos\Laab2\Laab2\bin\Debug\net8.0\Laab2.pdb
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.AssemblyInfoInputs.cache
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.AssemblyInfo.cs
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.csproj.CoreCompileInputs.cache
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.sourcelink.json
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.dll
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\refint\Laab2.dll
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.pdb
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\Laab2.genruntimeconfig.cache
+C:\Users\06650\source\repos\Laab2\Laab2\obj\Debug\net8.0\ref\Laab2.dll
